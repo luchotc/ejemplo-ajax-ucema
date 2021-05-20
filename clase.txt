@@ -1,1 +1,34 @@
+DOM
+
+DOM, AJAX -> JAVASCRIPT
+
+Document Object Model
+
+Representación OO de una página web.
+API OO / Logico Arbol.
+
+Pagina web: HTML, CSS y JAVASCRIPT.
+
+Estatica: HTML y CSS y 
+Dinamica: HTML, CSS y JAVASCRIPT.
+
+
+-------------
+AJAX
+
+Arma una todo-list
+
+Lista de tareas
+Crear una nueva tarea
+
+RUTAS
+
+/tasks -> GET (index)
+/tasks -> POST (create) redirect_to 'index'
+
+--------------
+
 AJAX = Asyncronous Javascript and XML
+
+Nos permite acceder de manera asincrónica a recursos de un servidor.
+Usamos el objeto XMLHttpRequest de Javascript pero existen muchas bibliotecas
